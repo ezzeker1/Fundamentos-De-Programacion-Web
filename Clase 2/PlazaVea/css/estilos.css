@@ -1,0 +1,12 @@
+
+body{
+
+	background-image: url(fondo.png);
+ 
+}
+
+aside{	width: 352px;height: 13em; margin-left: 700px;
+}
+
+article{	width: 3em; height: 3em;float: left}
+

@@ -1,0 +1,21 @@
+body{
+	background-image: url(imagenes/fondo.png);
+}
+div{
+	width: 1004px; height: 658px; margin: auto;
+}
+header{
+	height: 128px;
+}
+nav{
+	height: 340px;
+}
+article{
+	width: 652px; height: 662px; float: left
+}
+aside{
+	width: 352px; height: 662px; margin-left: 652px
+}
+footer{
+	height: 243px; clear: both
+}
